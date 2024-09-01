@@ -27,7 +27,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./design/desktop-preview.jpg)
 
 ### Links
 
